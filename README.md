@@ -6,7 +6,7 @@
  - Tenho 27 anos
  - Sou pisciana com quase todos os estigmas do signo
  - Sou estudante de Bacharelado Interdisciplinar em Artes
- - -Atualmente estou aprendendo programação com o curso introdutório a tecnologia da @Pretalab
+ - Atualmente estou aprendendo programação com o curso introdutório a tecnologia da @Pretalab
 
 <!--
 **jayasza/jayasza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
