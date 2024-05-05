@@ -1,4 +1,4 @@
-### **Olá👋! Eu sou Jaiane (Jaya)**✨
+### Olá👋! Eu sou Jaiane (Jaya)✨
 
 
  - Meus pronomes são (Ela/dela)
